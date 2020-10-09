@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+ ⚡ Check out my [website](ygcoconut.github.io) !
+ 
+ 📫 How to reach me: reachouttonils@gmail.com
 
 <!--
 **ygCoconut/ygCoconut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
