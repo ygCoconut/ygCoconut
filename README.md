@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- ⚡ Check out my [website](ygcoconut.github.io) !
+ ⚡ Check out my [website](https://ygcoconut.github.io/) !
  
  📫 How to reach me: reachouttonils@gmail.com
 
