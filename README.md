@@ -4,6 +4,8 @@
  
  📫 How to reach me: reachouttonils@gmail.com
 
+<img src="dino.gif">
+
 <!--
 **ygCoconut/ygCoconut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
